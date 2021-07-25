@@ -1,4 +1,4 @@
 ## To Do List feito com React.JS
 
-## Build
+## How to Build
 > `Yarn Build`
